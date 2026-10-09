@@ -1,0 +1,39 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+
+# Local logs
+*.log
+
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/Pods/
+**/Flutter/ephemeral/
